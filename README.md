@@ -13,7 +13,14 @@ A complete example WordPress plugin that demonstrates how to integrate WP Licens
 - [File Structure](#file-structure)
 - [Usage as Template](#usage-as-template)
 - [API Integration](#api-integration)
+- [How Each Component Works](#how-each-component-works)
+- [Testing Updates](#testing-updates)
 - [Troubleshooting](#troubleshooting)
+- [WordPress Options Reference](#wordpress-options-reference)
+- [Security Considerations](#security-considerations)
+- [Code Examples](#code-examples)
+- [Best Practices](#best-practices)
+- [Support](#support)
 
 ## 🎯 Overview
 
